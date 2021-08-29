@@ -70,7 +70,7 @@ msgstr "Termék tulajdonság szett"
 #. module: pim
 #: model:ir.ui.menu,name:pim.menu_product_product
 msgid "Product Variants"
-msgstr "Termék variáns"
+msgstr "Termék variánsok"
 
 #. module: pim
 #: model:ir.actions.act_window,name:pim.product_template_action
